@@ -9,3 +9,5 @@ using expansions, performing arithmetic operations, and utilizing aliases.
 * **0. <o>**
   * [0-alias](./0-alias): Bash script that creates an alias named `ls` with value `rm *`.
 
+* **2. The path to success is to take massive, determined action**
+  * [2-path](./2-path): Bash script that adds `/action` to the `PATH`.
